@@ -1,6 +1,24 @@
-- 👋 Hi, I’m ahmed yousef 
-- 👀 I’m interested in esx, QB scripts , fivem servers
-- 🌱 I’m currently learning full stack
-- 📫 How to reach me KonarPlus#6627 on discord
+
+<p align="center">
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmed608&hide=stars&show_icons=true&theme=dracula&line_height=32">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed608&count_private=true&theme=dracula">
+
+</p>
+<br>
+
+
+<p align="center">
+  <i>👋 Hi, I’m ahmed yousef</i>
+  <br>
+  <i>👀 I’m interested in esx, QB scripts , fivem servers, unity programming</i>
+  <br>
+  <i>My Discord...</i>
+</p>
+<div align="center">
+  <a href="https://discord.gg/Q6VpZTueKF"><img width="100" src="https://beeimg.com/images/f67507130903.png" ></a>
+  </div>
+
+
 
 
