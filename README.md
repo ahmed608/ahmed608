@@ -7,11 +7,10 @@
 </p>
 <br>
 
-
 <p align="center">
   <i>👋 Hi, I’m ahmed yousef</i>
   <br>
-  <i>👀 I’m interested in esx, QB scripts , fivem servers, unity programming</i>
+  <i>👀 Hello, I am interested in programming 3D games & software programs</i>
   <br>
   <i>My Discord...</i>
 </p>
